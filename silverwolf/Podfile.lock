@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Floaty (4.2.0)
+  - FSCalendar (2.8.4)
+  - GoogleMaps (6.2.1):
+    - GoogleMaps/Maps (= 6.2.1)
+  - GoogleMaps/Base (6.2.1)
+  - GoogleMaps/Maps (6.2.1):
+    - GoogleMaps/Base
+  - GooglePlaces (6.2.1)
+  - HorizontalCalendar (0.0.1)
+  - IQKeyboardManagerSwift (6.5.10)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.13.0):
+    - SDWebImage/Core (= 5.13.0)
+  - SDWebImage/Core (5.13.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.4.3)
+  - Floaty (~> 4.2.0)
+  - FSCalendar
+  - GoogleMaps
+  - GooglePlaces
+  - HorizontalCalendar
+  - IQKeyboardManagerSwift (~> 6.5.6)
+  - MBProgressHUD
+  - SDWebImage (~> 5.0)
+  - SwiftMessages (~> 9.0.2)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Floaty
+    - FSCalendar
+    - GoogleMaps
+    - GooglePlaces
+    - HorizontalCalendar
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - SDWebImage
+    - SwiftMessages
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Floaty: e2bd5a0f6f7f70899e26ff2da31081c8bee8d1b0
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  GoogleMaps: 20d7b12be49a14287f797e88e0e31bc4156aaeb4
+  GooglePlaces: 94974aa119573d5acc2a35a699948dac838abd73
+  HorizontalCalendar: 264ae0d6b162890d637db90db3a618fc14587a69
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 0327043dbb9533e75f2eff8445b3df0f2ceca6ac
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+
+PODFILE CHECKSUM: 727812fe2ead5d1254e55f0b52aa040c62078567
+
+COCOAPODS: 1.11.3

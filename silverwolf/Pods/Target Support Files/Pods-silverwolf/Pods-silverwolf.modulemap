@@ -1,0 +1,6 @@
+framework module Pods_silverwolf {
+  umbrella header "Pods-silverwolf-umbrella.h"
+
+  export *
+  module * { export * }
+}
